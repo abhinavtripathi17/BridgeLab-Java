@@ -16,5 +16,6 @@ public class q1 {
         System.out.println("The addition, subtraction, multiplication, and division value of 2 numbers " 
                 + number1 + " and " + number2 + " is " 
                 + addition + ", " + subtraction + ", " + multiplication + ", and " + division);
+                
     }
 }
